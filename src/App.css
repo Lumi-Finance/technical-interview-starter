@@ -1,0 +1,21 @@
+/* Lumi App BEM Styles */
+.lumi-app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+}
+
+.lumi-app__logo {
+  width: 120px;
+  margin-bottom: 32px;
+}
+
+.lumi-app__header {
+  color: #002B5C;
+  font-weight: 700;
+  font-size: 2.5rem;
+  margin: 0;
+}
